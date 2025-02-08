@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I'm currently learning a double major in English and Computer Science.
+- I'm currently a sophomore with a double major in English and Computer Science.
 - Looking forward to participating in the Github society!
 
 <!--
