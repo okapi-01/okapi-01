@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- I'm currently learning a double major in English and Computer Science.
+- Looking forward to participating in the Github society!
+
 <!--
 **okapi-01/okapi-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
